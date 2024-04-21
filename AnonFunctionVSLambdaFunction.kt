@@ -2,6 +2,9 @@ fun main() {
   // Write your code below
   //lamba function format:
   //val area = {base:Int, height:Int -> (base*height)/2}
+
+  //single line expression format
+  //fun findRemainder(num1: Int, num2: Int) = num1 % num2
   
   //anon function format:
   val area = fun(base:Int, height:Int): Int {
